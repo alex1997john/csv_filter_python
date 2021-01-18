@@ -14,5 +14,5 @@ An output csv file will be created inside the output folder with the file name f
 ##lowestPrice.csv
 To create csv file with SKU and two lowest price
 
-Run the php file with the file name "filterPrice.php"
+Run the python file with the file name "filterPrice.py"
 An output csv file will be created inside the output folder with the file name lowestPrice.csv
